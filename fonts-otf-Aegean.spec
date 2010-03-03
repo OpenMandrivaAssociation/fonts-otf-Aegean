@@ -13,7 +13,7 @@ Release:	%{release}
 Source0:	http://users.teilar.gr/~g1951d/%{fontname}.zip
 Source1:	http://users.teilar.gr/~g1951d/Anatolian.zip
 License:	Public Domain
-Group:		System/Fonts/Open type
+Group:		System/Fonts/True type
 Url:		http://users.teilar.gr/~g1951d/
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 BuildArch:	noarch
