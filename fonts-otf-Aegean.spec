@@ -67,3 +67,18 @@ ln -s ../../../%{fontdir} %{buildroot}%{fontconfdir}/otf-%{fontname}:pri=50
 %{fontdir}/*.otf
 %{fontdir}/fonts.*
 
+
+
+%changelog
+* Tue May 17 2011 Funda Wang <fwang@mandriva.org> 3.01-3mdv2011.0
++ Revision: 675500
+- br fontconfig for fc-query used in new rpm-setup-build
+
+* Sun Dec 05 2010 Oden Eriksson <oeriksson@mandriva.com> 3.01-2mdv2011.0
++ Revision: 610719
+- rebuild
+
+* Wed Mar 03 2010 Lev Givon <lev@mandriva.org> 3.01-1mdv2010.1
++ Revision: 513930
+- import fonts-otf-Aegean
+
